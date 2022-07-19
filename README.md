@@ -1,6 +1,6 @@
 # nested_dictionary
 
-Python object-oriented program for demonstrating nested dictionry
+Python object-oriented program for demonstrating nested dictionary
 
 ## Description
 
