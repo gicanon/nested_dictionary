@@ -6,9 +6,9 @@ Python object-oriented program for demonstrating nested dictionary
 
 This Python program is used to demonstrate nested dictionary with the following exercise: 
 Create a nested dictionary of data on cars within a Car class. Extend the program to work with the dictionary by calling the following methods:
-items()
-keys()
-values()
+items().
+keys().
+values().
 
 
 items() = a set-like object providing a view on dictionary's items
